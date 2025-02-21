@@ -1,0 +1,9 @@
+numpy 
+pandas
+tensorflow
+os
+cv2
+matplotlib
+kagglehub
+random
+seaborn
