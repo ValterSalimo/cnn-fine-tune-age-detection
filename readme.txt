@@ -39,7 +39,7 @@ Enter the path of the image when prompted. The model will predict the age of the
 - Implementing a Flask-based API for age prediction.
 - Optimizing the model for faster inference.
 
-model in golab:https://drive.google.com/drive/folders/12jI90bI1TXWOD_hRM2WQbLXAup4A4peF?usp=drive_link
+trained model:https://drive.google.com/drive/folders/12jI90bI1TXWOD_hRM2WQbLXAup4A4peF?usp=drive_link
 
 ## Author
 Valter
